@@ -59,7 +59,7 @@ void loop() {
 
   }
   
-  delayMicroseconds(50); // Задержка в 40 миллисекунд между битами
+  delayMicroseconds(40); // Задержка в 40 миллисекунд между битами
 }
 
 void priem() {
